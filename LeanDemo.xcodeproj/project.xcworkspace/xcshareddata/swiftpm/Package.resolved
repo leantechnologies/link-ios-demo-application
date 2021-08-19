@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LeanSDK",
+        "repositoryURL": "https://github.com/leantechnologies/link-sdk-ios-distribution.git",
+        "state": {
+          "branch": null,
+          "revision": "8f490bbc35f306e5b1647783a36853d76c97566e",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
